@@ -128,10 +128,11 @@ body{
    height: 45px;
    border-radius: 50%;
    text-align: center;
-   padding-top: 3px;
+   padding-top: 1.5px;
    font-size: 1.7rem;
    transition: transform 1s;
 }
+
 
 .fontseze-link{
    font-size: 1.8rem;
